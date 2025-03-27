@@ -1,4 +1,4 @@
-# Calculator Implementations
+# Calculator Implementations Hanefi Balcı
 
 Bu repoda farklı programlama dillerinde geliştirilmiş hesap makinesi uygulamaları bulunmaktadır. Aşağıda, her bir dosyanın kısa açıklaması ve nasıl çalıştırılacağı yer almaktadır.
 
